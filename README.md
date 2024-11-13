@@ -10,9 +10,9 @@ Create Attendance Folder In Your Project bcz all attendance store in this folder
     will run app.py (main file) and check your attendance with your name... 
 
 # Step 2:- Run Programm Code:
-1. python -m run streamlit add_faces.py
-2. python -m run streamlit test.py
-3. python -m run streamlit app.py  
+1. python -m streamlit run add_faces.py
+2. python -m streamlit run test.py
+3. python -m streamlit run app.py  
 
 # Project Made By:- 
     Dhruvil Sheladiya.
