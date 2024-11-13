@@ -1,5 +1,7 @@
 # face_recognition_project
 
+Create Attendance Folder In Your Project bcz all attendance store in this folder.
+
 # How To Run Project:-
 # Step 1:-
     First of all your add face using add_face.py file
